@@ -1,2 +1,1 @@
 saida
-sk
